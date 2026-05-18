@@ -1,0 +1,1 @@
+Stored malicious script executed for multiple sessions.
